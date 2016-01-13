@@ -1,2 +1,7 @@
 # ng-JobDirectory
-## Job listing Web app Where users can register and search for jobs.
+This is a job listing web app where users can register and search for jobs
+## Technologies Used:
+* MEAN STACK
+* YEOMAN
+* BOOTSTRAP
+* SASS
